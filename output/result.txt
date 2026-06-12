@@ -1,0 +1,15 @@
+File: gondon.txt
+Lines: 1
+Words: 3
+Chars: 15
+
+File: a.txt
+Lines: 2
+Words: 5
+Chars: 23
+
+File: b.txt
+Lines: 1
+Words: 5
+Chars: 18
+
